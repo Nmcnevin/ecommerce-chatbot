@@ -1,0 +1,10 @@
+---
+
+### 4. `.gitignore`
+```txt
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
